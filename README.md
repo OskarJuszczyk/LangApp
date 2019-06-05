@@ -1,3 +1,5 @@
+The app was built with angular. It lets the user learn English words with flashcards by showing their polish translation and how to say them in English. The data is fetched from xml.
+
 # AngularLearn
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
